@@ -21,7 +21,7 @@
 
 | [Video (YouTube)](https://youtu.be/PBSYnk9T4o4) | [Instructions (PDF)](Instructions.pdf) |
 | ----------------------------------------------- | -------------------------------------- |
-| [![YouTube](docs/YouTube.JPG)](https://youtu.be/PBSYnk9T4o4) | [![](docs/Instructions.jpg)](Instructions.pdf) |
+| [![YouTube](docs/YouTube.jpg)](https://youtu.be/PBSYnk9T4o4) | [![](docs/Instructions.jpg)](Instructions.pdf) |
 
 
 
