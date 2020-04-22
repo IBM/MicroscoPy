@@ -49,6 +49,8 @@ The microscope has a simple operation principle based on changing the magnificat
 
 - [Run the Python code.](#Python-Raspberry-Pi)
 
+- [Try different operation modes and enjoy the microscope.](#Basic-operation-modes)
+
   
 
 ## 3D printing
