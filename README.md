@@ -2,6 +2,8 @@
 
 ![Animation](docs/Animation.gif)
 
+![Images](docs/Images.jpg)
+
 
 
 ## Key Features
@@ -152,6 +154,14 @@ python3 /home/pi/MicroscoPy.py
 ## Basic operation modes
 
 ![Modes](docs/Modes.jpg)
+
+
+
+## Media coverage
+
+IEEE Spectrum: 
+
+IBM press release: 
 
 
 
