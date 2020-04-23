@@ -59,7 +59,7 @@ I assembled the main body of the microscope using individually-purchased [LEGO b
 
 All STL files for 3D printing and the original FreeCAD files for editing are available in this [folder](https://github.com/IBM/MicroscoPy/tree/master/3D-design-files). You may need to install [FreeCAD Gear workbench](https://wiki.freecadweb.org/Macro_FCGear) to edit the gears. 
 
-:warning: A good quality printing depends on many factors. I optimized the designs after several iterations of printing. If the parts do not match well, some minor modification in the original design file (e.g. enlarging the holes matching to LEGO studs) or polishing/drilling may be required. More information on the printer and slicer settings is given in the [PDF document](Instructions.pdf). 
+:warning: A good quality printing depends on many factors. I optimized the designs after several iterations of printing. If the parts do not match well, some minor modification in the original design file (e.g. enlarging the holes matching to LEGO studs) or polishing/drilling may be required. More information on the printer and slicer settings is given in the [PDF document](Instructions.pdf) (page #72). 
 
 ![3Dprinting](docs/3Dprinting.jpg)
 
