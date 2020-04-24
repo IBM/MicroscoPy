@@ -159,7 +159,7 @@ python3 /home/pi/MicroscoPy.py
 
 ## Media coverage
 
-IEEE Spectrum: 
+[IEEE Spectrum](https://spectrum.ieee.org/geek-life/hands-on/build-a-sophisticated-microscope-using-lego-3d-printing-arduinos-and-a-raspberry-pi): "Build A Sophisticated Microscope Using Lego, 3D Printing, Arduinos, and a Raspberry Pi"
 
 IBM press release: 
 
