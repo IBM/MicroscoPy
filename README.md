@@ -71,7 +71,7 @@ All STL files for 3D printing and the original FreeCAD files for editing are ava
 
 :warning: **This part requires some basic knowledge on electronic circuit design and Arduino.**
 
-All design and Gerber files of printed circuit board (PCBs) are available in this [folder](/Circuit). I designed the PCBs using [DesignSpark PCB software](https://www.rs-online.com/designspark/pcb-software). The list of all components can be found in the [PDF document](Instructions.pdf) (page #71)  
+All design and Gerber files of printed circuit boards (PCBs) are available in this [folder](/Circuit). I designed the PCBs using [DesignSpark PCB software](https://www.rs-online.com/designspark/pcb-software). The list of all components can be found in the [PDF document](Instructions.pdf) (page #71)  
 
 There is also a separate [instruction manual](/Circuit/CircuitAssembly.pdf) giving more details about the assembly of the circuit boards.
 
@@ -161,7 +161,7 @@ python3 /home/pi/MicroscoPy.py
 
 [IEEE Spectrum](https://spectrum.ieee.org/geek-life/hands-on/build-a-sophisticated-microscope-using-lego-3d-printing-arduinos-and-a-raspberry-pi): "Build A Sophisticated Microscope Using Lego, 3D Printing, Arduinos, and a Raspberry Pi"
 
-IBM press release: 
+[IBM - Medium article](https://medium.com/@IBMResearch/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf): "IBM open sources $300 fully-functional LEGO®microscope design"
 
 
 
