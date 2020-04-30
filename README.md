@@ -163,7 +163,7 @@ python3 /home/pi/MicroscoPy.py
 
 [IBM - Medium article](https://medium.com/@IBMResearch/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf): "IBM open sources $300 fully-functional LEGO®microscope design"
 
-[Futurism] (https://futurism.com/engineer-published-scientific-papers-lego-microscope): "This Engineer Published Scientific Papers Using a Lego Microscope"
+[Futurism](https://futurism.com/engineer-published-scientific-papers-lego-microscope): "This Engineer Published Scientific Papers Using a Lego Microscope"
 
 
 
