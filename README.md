@@ -1,4 +1,4 @@
-# An open-source MICROSCOPE built using LEGO bricks, Arduino and Raspberry Pi
+# An open-source MICROSCOPE built using LEGO bricks, 3D-printing, Arduino and Raspberry Pi
 
 ![Animation](docs/Animation.gif)
 
