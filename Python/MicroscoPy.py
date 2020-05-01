@@ -4,6 +4,9 @@
 # Increase GPU memory (Raspberry Pi 4, max. camera resolution): Preferences --> Raspberry Pi Configuration --> Performance --> GPU memory --> Change from 128 to 144 --> Reboot
 # Arduino USB communication baud rate: 57600
 
+# The code can also be used to control the camera settings of any Pi camera without having a microscope. 
+# In this case, set the variable KeyboardControl = False so that the code does not expect an Arduino board connected to the USB.
+
 ## IMPORTANT! For Raspberry Pi zero, and Raspberry Pi 3, reduce the resolution by setting HighResolution = False
 
 HighResolution = True # True: (3280, 2464), False: (1920, 1080)
