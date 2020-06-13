@@ -25,7 +25,7 @@
 | ------------------------------------------------------------ | ---------------------------------------------- |
 | [![YouTube](docs/YouTube.jpg)](https://youtu.be/PBSYnk9T4o4) | [![](docs/Instructions.jpg)](Instructions.pdf) |
 | **[Circuit assembly (PDF)](/Circuit/CircuitAssembly.pdf)**   | **[Raspberry Pi HQ camera test](/HQ-camera)**  |
-| ![Circuit](docs\Circuit.jpg)                                 | ![HQ-camera](docs\HQ-camera.jpg)               |
+| ![Circuit](docs/Circuit.jpg)                                 | ![HQ-camera](docs/HQ-camera.jpg)               |
 
 
 
