@@ -21,9 +21,11 @@
 
 ## Assembly instructions
 
-| [Video (YouTube)](https://youtu.be/PBSYnk9T4o4) | [Instructions (PDF)](Instructions.pdf) |
-| ----------------------------------------------- | -------------------------------------- |
+| [Video (YouTube)](https://youtu.be/PBSYnk9T4o4)              | [Instructions (PDF)](Instructions.pdf)         |
+| ------------------------------------------------------------ | ---------------------------------------------- |
 | [![YouTube](docs/YouTube.jpg)](https://youtu.be/PBSYnk9T4o4) | [![](docs/Instructions.jpg)](Instructions.pdf) |
+| **[Circuit assembly (PDF)](/Circuit/CircuitAssembly.pdf)**   | **[Raspberry Pi HQ camera test](/HQ-camera)**  |
+| ![Circuit](docs\Circuit.jpg)                                 | ![HQ-camera](docs\HQ-camera.jpg)               |
 
 
 
@@ -52,6 +54,8 @@ The microscope has a simple operation principle based on changing the magnificat
 - [Run the Python code.](#Python-Raspberry-Pi)
 
 - [Try different operation modes and enjoy the microscope.](#Basic-operation-modes)
+
+- [Check these instructions if you would like to test the new hiqh quality (HQ) camera](/HQ-camera)
 
   
 
