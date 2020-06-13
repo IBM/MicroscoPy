@@ -21,11 +21,11 @@
 
 ## Assembly instructions
 
-| [Video (YouTube)](https://youtu.be/PBSYnk9T4o4)              | [Instructions (PDF)](Instructions.pdf)         |
-| ------------------------------------------------------------ | ---------------------------------------------- |
+|       [Video (YouTube)](https://youtu.be/PBSYnk9T4o4)        |     [Instructions (PDF)](Instructions.pdf)     |
+| :----------------------------------------------------------: | :--------------------------------------------: |
 | [![YouTube](docs/YouTube.jpg)](https://youtu.be/PBSYnk9T4o4) | [![](docs/Instructions.jpg)](Instructions.pdf) |
-| [Circuit assembly (PDF)](/Circuit/CircuitAssembly.pdf)       | [Raspberry Pi HQ camera test](/HQ-camera)      |
-| [![Circuit](docs/Circuit.jpg)](/Circuit/CircuitAssembly.pdf) | [![HQ-camera](docs/HQ-camera.jpg)](/HQ-camera)               |
+|  **[Circuit assembly (PDF)](/Circuit/CircuitAssembly.pdf)**  | **[Raspberry Pi HQ camera test](/HQ-camera)**  |
+| [![Circuit](docs/Circuit.jpg)](/Circuit/CircuitAssembly.pdf) | [![HQ-camera](docs/HQ-camera.jpg)](/HQ-camera) |
 
 
 
