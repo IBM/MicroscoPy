@@ -8,7 +8,7 @@ Overall, I think it is NOT worth the extra effort and cost unless a completely n
 
 Follow these detailed [instructions](Instructions_HQ.pdf) if you would like to try yourself. 
 
-:warning:  Use the modified Python code (**MicroscoPy_HQ.py**) in this folder for the best resolution.
+**Note:** Use the modified Python code (**MicroscoPy_HQ.py**) in this folder for the best resolution.
 
 <img src="HQ-camera.gif" alt="HQ-camera"  />
 
