@@ -116,7 +116,7 @@ The *mainboard* can be powered from an external 5V wall charger or directly from
 Follow the detailed instructions given in the [PDF document](Instructions.pdf). Briefly:
 
 - It is important to fix the [32x32 LEGO baseplate](https://www.lego.com/en-us/product/white-baseplate-11010) to a rigid table or support for a good mechanical stability. Rubber dampers or an air cushion can be used to minimize vibrations.  
-- Unfortunately it is not possible to create a public shopping basket in the [LEGO shop](https://www.lego.com/en-us/page/static/pick-a-brick), all parts need to be added one by one. I listed the LEGO parts in the document but I recommend buying extra bricks and plates in case you need to change something. 
+- Unfortunately it is not possible to create a public shopping basket in the [LEGO shop](https://www.lego.com/en-us/page/static/pick-a-brick), all parts need to be added one by one. I listed the LEGO parts in [this document](List of Lego bricks.pdf) but I recommend buying extra bricks and plates in case you need to change something. 
 - Some LEGO parts are needed to be glued permanently for better stability. I provided recommendations in the document based on my experience. In general, it is a good idea to glue a smaller LEGO piece (e.g. 2x2) to a larger one (e.g. 2x4) to have a stronger interlocking while preserving the advantage of LEGO bricks for modularity. 
 - After assembling the microscope and connecting all the cables, boot the Raspberry Pi. 
 - :warning: Do not forget to enable the camera from the Raspberry Pi configuration (Preferences → Raspberry Pi configuration → Interfaces → Camera Enabled → Reboot)  as explained [here](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera). 
