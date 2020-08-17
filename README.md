@@ -185,13 +185,5 @@ Separate third-party libraries used in Arduino and Python codes are licensed by 
 
 **The microscope is not currently available for purchase in kit or built form.** 
 
-My initial goal was to develop a lab tool for our research work on [microfluidics for point-of-care diagnostics](https://www.zurich.ibm.com/st/precision_diagnostics/mobile_health.html). With the support from IBM, we decided to release the instructions open source so that other research labs, schools, students, kids and hobbyist can benefit from this low-cost and performant microscope. 
-
-The concept design, hardware/software implementation, illustrations, animations, stop motion video, basically everything is done by myself as a hobby project without any technical or financial support from a third-party.  
-
-I am not a software developer, the codes I wrote are probably not very efficient and my writing style may look unusual to an experienced developer. But I hope they are easy to understand and serve as a good starting point for further development.
-
-There are probably many things that could be done better. I hope this prototype inspires other DIY enthusiasts and makers to build better microscopes. 
-
 Copyright 2020 [Yuksel Temiz](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-YTE)
 
