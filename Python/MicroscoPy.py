@@ -431,7 +431,7 @@ def on_release(key):
             elif recording == True:
                 camera.stop_recording()
                 camera.annotate_text = "Recording stopped"
-                recording == False
+                recording = False
         
 ### Stop motors when key is released
 
