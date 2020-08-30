@@ -11,7 +11,7 @@
 
 HighResolution = True # True: (3280, 2464), False: (1920, 1080)
 
-KeyboardControl = True # set to "False" if the Arduino is not connected to the Raspberry Pi via USB 
+KeyboardControl = False # set to "True" if the Arduino is connected to the Raspberry Pi via USB and if you want to control the stepper motors via Keyboard
 
 import sys
 import easygui
