@@ -330,7 +330,10 @@ Maximum exposure time is determined by the framerate","Exposure time (shutter sp
         elif arrowkey_mode == False:
             arrowkey_mode = True
             camera.annotate_text = "Rotate-Tilt"
-            
+
+    if not KeyboardControl:
+        return
+
     if key == Key.left:
         if arrowkey_mode == False:
             data = str(speed*-1) + "X,"
@@ -435,9 +438,9 @@ def on_release(key):
         
 ### Stop motors when key is released
 
-    if key == Key.up or key == Key.down or key == Key.left or key == Key.right\
+    if KeyboardControl and (key == Key.up or key == Key.down or key == Key.left or key == Key.right\
        or key == Key.page_up or key == Key.page_down or key == Key.home\
-       or key == Key.end:
+       or key == Key.end):
         ser.write(b"0O,") ## send to Arduino "0O," to stop the motors
          
 with Listener(on_press=on_press,on_release=on_release) as listener:
