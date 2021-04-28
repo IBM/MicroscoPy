@@ -4,7 +4,7 @@
 
 ![Images](docs/Images.jpg)
 
-
+![Stop-motion](docs/Stop-motion.gif)
 
 ## Key Features
 
