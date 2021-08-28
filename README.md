@@ -185,5 +185,5 @@ Separate third-party libraries used in Arduino and Python codes are licensed by 
 
 **The microscope is not currently available for purchase in kit or built form.** 
 
-Copyright 2020 [Yuksel Temiz](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-YTE)
+Copyright 2021 [Yuksel Temiz](https://www.linkedin.com/in/yukseltemiz/)
 
